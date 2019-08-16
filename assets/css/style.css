@@ -1,0 +1,23 @@
+/* Page  background color*/
+
+body{
+  background-color: rgba(100, 82, 218, 0.548);
+
+}
+
+/* Main container */
+.box {
+  width: 175px;
+  height: 90px;
+  background-color: aqua;
+  box-sizing: border-box;
+  
+
+}
+
+/* Instructions box */
+.container {
+  background-color: peru;
+  box-sizing: content-box;
+
+}
